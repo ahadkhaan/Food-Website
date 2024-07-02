@@ -379,7 +379,7 @@ body {
     display: none;
   }
   .about-right{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/vegs.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(vegs.jpg);
     background-position: center;
     background-size: cover;
   background-repeat: no-repeat;
